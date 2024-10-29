@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="vi">
 <head>
     <meta charset="UTF-8">
@@ -28,7 +29,7 @@
     <h1 style="color: aqua;">Giới thiệu về bản thân</h1>
     <p>Xin chào! Mình là <strong>Nguyễn Xuân Minh Lộc</strong>, hiện đang là học sinh lớp 10 tin tại Trường THPT Chuyên Hà Tĩnh.</p>
     
-    <h2>Thông tin cá nhân:</h2>
+    <h2 style="color: brown;">Thông tin cá nhân:</h2>
     <ul>
         <li><strong>Tên:</strong> Nguyễn Xuân Minh Lộc</li>
         <li><strong>Lớp:</strong> 10 tin</li>
