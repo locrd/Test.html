@@ -43,7 +43,7 @@
     <h2 style="color: red;">Không được vào ☠ </h2>
     <p><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">Không được ấn</a></p>
     <h2 style="color: green;">Chúc bạn may mắn </h2>
-    <a href="https://m.me/[Facebook_User_ID]" target="_blank">
+    <a href="https://m.me/61552626677713" target="_blank">
     <button style="background-color: #0084FF; color: white; padding: 10px 15px; border: none; border-radius: 5px; cursor: pointer;">
     Nhắn tin qua Messenger
     </button>
